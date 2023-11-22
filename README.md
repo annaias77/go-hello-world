@@ -12,3 +12,8 @@ Run
 $ go-hello-world
 Hello World
 ```
+
+uninstall
+```
+Remove all traces of this program
+```
